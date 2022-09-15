@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+    <test name="device1">
+        <parameter name="systemPort" value="10000"></parameter>
+        <parameter name="ChromeDrıverPort" value="11000"></parameter>
+        <parameter name="devıceName" value="Test1"></parameter>
+        <parameter name="ud" value="emulator-5554"></parameter>
+        <classes>
+            <class name="com.qa.runners.MyRunnerTest"></class>
+        </classes>
+    </test>
+</suite>

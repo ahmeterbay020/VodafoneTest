@@ -1,0 +1,6 @@
+[Android_Test2 INFO ] 2022-09-15 14:04:01.979 ServerManager:29 - Appium server started
+[Android_Test2 INFO ] 2022-09-15 14:04:01.991 DriverManager:28 - initializing Appium driver
+[Android_Test2 INFO ] 2022-09-15 14:04:02.000 PropertyManager:17 - loading config properties
+[Android_Test2 INFO ] 2022-09-15 14:04:02.001 CapabilitiesManager:18 - getting capabilities
+[Android_Test2 INFO ] 2022-09-15 14:04:10.567 DriverManager:33 - Driver is initialized
+[Android_Test2 INFO ] 2022-09-15 14:04:52.928 VideoManager:35 - video path: Android_Test2\Videos\Check 2.mp4
